@@ -1,1 +1,0 @@
-The ERA5 reanalysis dataset used in this study is publicly available from the Copernicus Climate Data Store at https://cds.climate.copernicus.eu/.
