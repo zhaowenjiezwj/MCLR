@@ -10,7 +10,7 @@ from era5_dataset import ERA5DataModule
 
 from earthformer.cuboid_transformer.cuboid_transformer import CuboidTransformerModel
 
-class LatentRAFTModule(nn.Module):
+class LatentRetrievalModule(nn.Module):
     def __init__(self, num_vars=5, mem_size=2048, top_k=8):
         super().__init__()
         self.num_vars = num_vars
